@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/doo0o/ClonePage#readme",
   "devDependencies": {
-    "gulp": "^4.0.2"
+    "gulp": "^4.0.2",
+    "gulp-ruby-sass": "^4.0.0"
   }
 }
